@@ -45,4 +45,5 @@ for it in range(500):
     if (it % 10 == 9):
         print ("Error:" + str(sum_of_er)) 
 
-print(weigths)
+
+print(weigths) 
